@@ -1,6 +1,5 @@
-### Originally submitted this technique to Mitre back in Oct 2017 with @evalstrings
-
-   __Both the technique and detection have been validated to work__
+ __Originally submitted this technique to Mitre back in Oct 2017 with @evalstrings__  
+ // The technique & detection have been validated to work
 
 ```
 5 years later and major email security vendors still_can't_block_this ¯\_(ツ)_/¯
