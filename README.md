@@ -1,4 +1,10 @@
-# template-injection
+### Originally submitted this technique to Mitre back in Oct 2017 with @evalstrings
+
+   __Both the technique and detection have been validated to work__
+
+```
+5 years later and major email security vendors still_can't_block_this ¯\_(ツ)_/¯
+```
 
 # T1221 - Template Injection
 ## [Description from ATT&CK](https://attack.mitre.org/techniques/T1221)
